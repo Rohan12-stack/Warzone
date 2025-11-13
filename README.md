@@ -5,7 +5,7 @@
 War-Zone is a 3D multiplayer tank combat game developed in Unity 3D. It offers intense local two-player battles across four themed environments—Forest, Desert, Snow, and Halloween. The game features physics-based tank movement, chargeable projectile firing, and realistic explosion effects, all enhanced by a dynamic third-person camera system. 
 
 <p align="center">
-  <img src="resources/RAWUI.png" alt="App Logo" width="300">
+  <img src="resources/RAWUI.png" alt="App Logo" width="500">
   <br>
   
 </p>
@@ -40,28 +40,28 @@ c. Responsive HUD - The heads-up display shows critical information such as tank
 
 1. Desert Scene
    <p align="center">
-    <img src="resources/desertscene.png" alt="Safe URL Result" width="200">
+    <img src="resources/desertscene.png" alt="Safe URL Result" width="350">
     <br>
     <em>Features sandy textures and scattered rock formations for cover.</em>
    </p>
 <br>
 2. Snow Scene
    <p align="center">
-    <img src="resources/snowscene.png" alt="Safe URL Result" width="200">
+    <img src="resources/snowscene.png" alt="Safe URL Result" width="350">
     <br>
     <em>Snow-covered terrain with icy visual effects creates a chilled battlefield. Continuous snowfall adds atmospheric depth and enhances immersion.</em>
    </p>
 <br>
 3. Forest Scene
    <p align="center">
-    <img src="resources/forestscene.png" alt="Safe URL Result" width="200">
+    <img src="resources/forestscene.png" alt="Safe URL Result" width="350">
     <br>
     <em>Lush greenery and wooden obstacles create a natural, camouflaged  battlefield.</em>
    </p>
 <br>
 4. Halloween Scene
    <p align="center">
-    <img src="resources/hwscene.png" alt="Safe URL Result" width="200">
+    <img src="resources/hwscene.png" alt="Safe URL Result" width="350">
     <br>
     <em>Dark, spooky theme with glowing pumpkins and eerie lighting.Unique obstacles like tombstones and themed props enhance the Halloween atmosphere.</em>
    </p>   
